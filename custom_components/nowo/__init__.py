@@ -1,0 +1,1 @@
+"""Home assistant integratio for Nowo Tv Box"""

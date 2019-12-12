@@ -1,0 +1,9 @@
+{
+    "domain": "nowo",
+    "name": "Nowo",
+    "documentation": "https://github.com/SoulOnFire/homeassistant-nowo",
+    "dependencies": [],
+    "codeowners": ["@SoulOnFire"],
+    "requirements": [],
+    "icons": []
+}
