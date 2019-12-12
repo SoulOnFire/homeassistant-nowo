@@ -8,8 +8,8 @@ The media player will show up as Television accessories on devices running iOS 1
 ## Screenshots
 _Component used with standard Media Player_
 
-![Component used with standard Media Player](screenshots/screen1.png)
-![Component used with standard Media Player](screenshots/screen2.png)
+![Component used with standard Media Player](screenshots/screen_1.png)
+![Component used with standard Media Player](screenshots/screen_2.png)
 
 
 ## Configuration
