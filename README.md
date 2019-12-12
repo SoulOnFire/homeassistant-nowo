@@ -1,8 +1,16 @@
 # Custom component for Nowo Tv Box using nowotv api
-A platform which allows you to interact with the nowo box and can change the channel of the box
+A platform which allows you to interact with the nowo box and can change the channel of the box and have EPG for the current channel.
 
 ## Homekit TV supported
 The media player will show up as Television accessories on devices running iOS 12.2 or later
+
+
+## Screenshots
+_Component used with standard Media Player_
+
+![Component used with standard Media Player](screenshots/screen1.png)
+![Component used with standard Media Player](screenshots/screen2.png)
+
 
 ## Configuration
 **Example configuration.yaml:**
